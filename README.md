@@ -21,9 +21,7 @@ I enjoy exploring new ideas, particularly with the aim of implementing them to i
 * Other: Microsoft Office, Tecplot, ASPEN HTFS, HTRI Exchanger
 
 
-- 📫 zolfaghari1992iut@gmail.com
-
-
+- 📫 zolfaghari1992iut@gmail.com // https://www.linkedin.com/in/ali-zolfaghari-sichani-17027077/
 
 
 <!---

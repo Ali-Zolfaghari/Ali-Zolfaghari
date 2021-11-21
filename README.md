@@ -1,13 +1,8 @@
 ### 👋 Hi, I’m Ali Zolfaghari Sichani
 
 
-- I have obtained both my bachelor’s and master’s degrees in mechanical engineering in one of the top-ranked universities in Iran, with a focus on computational thermo-fluid dynamics.
-- In my bachelor’s thesis, I developed a code in C++ for analyzing heat exchange phenomena in a double pipe heat exchanger.
-- In my master’s thesis, I developed a code with FORTRAN to simulate bubble expansion for medical purposes. For this project, I created an adaptive mesh to ensure the most accurate results. In addition, I set up and carried out experimental tests to validate the numerical results.
-- After graduation, I started working as a CFD code developer and R&D engineer. During this period I gathered valuable experience in this field. 
-- I am interested in code development for mathematical modeling of physical processes. I have accomplished numerous projects over the past eight years, where I have written thousands of lines of codes in FORTRAN, C/C++, C#, MATLAB, etc.
-In these projects I have always tried to develop creative algorithms for solving particular problems. I enjoy working in interdisciplinary environments so I have been involved in different fields namely medical (tumor and cancer), civil engineering, agriculture (water management), etc.
-I enjoy exploring new ideas, particularly with the aim of implementing them to improve people’s lives worldwide.
+- I have obtained both my bachelor’s and master’s degrees in mechanical engineering in one of the top-ranked universities in Iran, with a focus on computational thermo-fluid dynamics (CFD).
+- I am interested in code development for mathematical modeling of physical processes. I have accomplished numerous projects over my experiences, where I have written thousands of lines of codes in FORTRAN, C/C++, C#, MATLAB, etc.
 
 
 

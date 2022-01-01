@@ -15,7 +15,7 @@ Some of my skills are:
 * Other: Microsoft Office, Tecplot, ASPEN HTFS, HTRI Exchanger
 
 
-- 📫 zolfaghari1992iut@gmail.com // https://www.linkedin.com/in/ali-zolfaghari-sichani-17027077/
+- 📫 zolfaghari1992iut@gmail.com // https://www.linkedin.com/in/ali-zolfaghari-sichani-17027077/ // https://zolfaghari.mech.iut.ac.ir/
 
 
 <!---

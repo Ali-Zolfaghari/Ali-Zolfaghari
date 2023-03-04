@@ -17,7 +17,6 @@ Some of my skills are:
 
 - Email : zolfaghari1992iut@gmail.com 
 - Linkedin : https://www.linkedin.com/in/ali-zolfaghari-sichani-17027077/ 
-- Website : https://zolfaghari.mech.iut.ac.ir/
 
 
 <!---

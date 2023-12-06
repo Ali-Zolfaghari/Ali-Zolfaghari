@@ -12,7 +12,6 @@ Some of my skills are:
 * Mathematical Software: MATLAB, EES, MAPLE
 * 3D Part Design Software: Solidworks 
 * Operating Systems: Linux, Windows
-* Other: Microsoft Office, Tecplot, ASPEN HTFS, HTRI Exchanger
 
 
 - Email : zolfaghari1992iut@gmail.com 

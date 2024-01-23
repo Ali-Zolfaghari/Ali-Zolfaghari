@@ -5,7 +5,7 @@ I am a mechanical engineer, with a focus on computational thermo-fluid dynamics 
 
 
 Some of my skills are:
-* Programming Language: FORTRAN, C#, C++, Visual Basic
+* Programming Language: FORTRAN, C#, C++, Visual Basic, Python
 * Parallel Programming: MPI, Open MP
 * Programming IDE: Visual Studio Code, Microsoft Visual Studio, QT Creator
 * CFD Software: Star CCM+, ANSYS Fluent

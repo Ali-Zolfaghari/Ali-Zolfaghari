@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Ali Zolfaghari Sichani
 
 
-I have obtained both my bachelor’s and master’s degrees in mechanical engineering in one of the top-ranked universities in Iran, with a focus on computational thermo-fluid dynamics (CFD). I am interested in code development for mathematical modeling of physical processes. I have accomplished numerous projects over my experiences, where I have written thousands of lines of codes in FORTRAN, C/C++, C#, MATLAB, etc.
+I am a mechanical engineer, with a focus on computational thermo-fluid dynamics (CFD). I am interested in code development for mathematical modeling of physical processes. I have accomplished numerous projects over my experiences, where I have written thousands of lines of code in FORTRAN, C/C++, C#, MATLAB, etc.
 
 
 Some of my skills are:
